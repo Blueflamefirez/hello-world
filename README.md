@@ -1,2 +1,4 @@
 # hello-world
-Meh
+print("Goodbye world")
+
+# That is my message to you... I have seen it all, destruction..asdsdasd
